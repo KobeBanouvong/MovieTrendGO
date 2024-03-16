@@ -1,3 +1,4 @@
+![image](https://github.com/KobeBanouvong/MovieTrendGO/assets/80926867/51695d40-0437-4b12-8720-d61c5b40a328)
 
 MovieTrendGo is a dynamic web application designed to provide users with a seamless experience for exploring trending movies. Leveraging The Movie Database (TMDb) API, MovieTrendGo allows users to discover popular films, search for specific titles, and navigate through extensive movie lists with ease.
 
